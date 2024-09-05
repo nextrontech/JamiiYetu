@@ -1,0 +1,19 @@
+.site-logo .logo{
+  height: 170px;
+  position: absolute;
+  top: -20px;
+  left: -40px;
+}
+
+.press{
+  display: flex;
+  flex-direction: column;
+  padding: 10px 20px;
+}
+
+.press span{
+  background: cadetblue;
+  margin: 5px;
+  padding: 8px;
+  border-radius: 20px;
+}
